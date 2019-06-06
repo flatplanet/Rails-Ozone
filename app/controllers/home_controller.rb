@@ -53,8 +53,6 @@ Health warnings of emergency conditions. The entire population is more likely to
     elsif params[:zipcode]
       # Do Api stuff
 
-
-
       require 'net/http'
       require 'json'
 
